@@ -32,7 +32,7 @@ O jogo termina quando todos os jogadores da sala pararem ou estourarem 21. O ser
 ### 1. Clone o repositório
 
 
-git clone https://github.com/SEU_USUARIO/jogo-21-udp.git
+git clone https://github.com/guilhermeCacuci/jogo-21-udp.git
 cd jogo-21-udp
 
 
